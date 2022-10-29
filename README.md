@@ -4,5 +4,5 @@ This repository contains a collection of collab sandboxes related to the course 
 
 ## Table of Contents
 [Lecture 2 - Collecting and Plottind Data](../master/Lecture-PDFs/Lecture2-2019-Collecting-and-plotting-data.pdf "Lecture 2 PDF")
-*[Lecture 2 Sandbox](../master/Sandboxes/ECE_595_Lecture_02_Collecting_and_Plotting_Data.ipynb "Lecture 2 Sandbox")
+* [Lecture 2 Sandbox](../master/Sandboxes/ECE_595_Lecture_02_Collecting_and_Plotting_Data.ipynb "Lecture 2 Sandbox")
 
