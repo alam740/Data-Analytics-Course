@@ -4,5 +4,5 @@ This repository contains a collection of collab sandboxes related to the course 
 
 ## Table of Contents
 [Lecture 2 - Collecting and Plottind Data](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2002.pdf "Lecture 2 PDF")
-* [Lecture 2 Sandbox](../master/Sandboxes/ECE_595_Lecture_02_Collecting_and_Plotting_Data.ipynb "Lecture 2 Sandbox")
+* [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
