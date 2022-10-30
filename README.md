@@ -12,38 +12,38 @@ This repository contains a collection of collab sandboxes related to the course 
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
 
-[Lecture 4 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2004.pdf "Lecture 4 PDF")
+[Lecture 4 - Model Selection and Goodness of Fit ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2004.pdf "Lecture 4 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
 [Lecture 5 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2005.pdf "Lecture 5 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 6 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2006.pdf "Lecture 6 PDF")
+[Lecture 6 - Design of Experiments Scaling of Theory of Equations](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2006.pdf "Lecture 6 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 7 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2007.pdf "Lecture 7 PDF")
+[Lecture 7 - Equation-Free Scaling Theory for Design of Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2007.pdf "Lecture 7 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 8 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2008.pdf "Lecture 8 PDF")
+[Lecture 8 - Statistical Design of Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2008.pdf "Lecture 8 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 9 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2009.pdf "Lecture 9 PDF")
+[Lecture 9 - DOE and Taguchi Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2009.pdf "Lecture 9 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
 [Lecture 10 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2010.pdf "Lecture 10 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 11 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2011.pdf "Lecture 11 PDF")
+[Lecture 11 - Big Data Classification by PCA](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2011.pdf "Lecture 11 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 12 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2012.pdf "Lecture 12 PDF")
+[Lecture 12 - Basics of ML](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2012.pdf "Lecture 12 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 13 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2013.pdf "Lecture 13 PDF")
+[Lecture 13 - Deep Learning, Karnaugh Mapping, and Unsupervised Classification](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2013.pdf "Lecture 13 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 14 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2014.pdf "Lecture 14 PDF")
+[Lecture 14 - Physics-based Machine Learning](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2014.pdf "Lecture 14 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
 
-[Lecture 15 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2015.pdf "Lecture 15 PDF")
+[Lecture 15 - Conclusion and Outlook](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2015.pdf "Lecture 15 PDF")
 * [Lecture 2 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 2 Sandbox")
