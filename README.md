@@ -18,8 +18,6 @@ This repository contains a collection of Google Colab sandboxes related to the c
 [Lecture 4B - Model Selection and Goodness of Fit ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2004B.pdf "Lecture 4 PDF")
 * [Lecture 4B Sandbox](https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2004B-%20Part%202%20of%20Model%20Selection%20and%20Goodness%20of%20Fit.ipynb "Lecture 4B Sandbox")
 
-[Lecture 5 - ](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2005.pdf "Lecture 5 PDF")
-* [Lecture 5 Sandbox](../master/Sandboxes/ECE%20595%20Lecture%2002%20-%20Collecting%20and%20Plotting%20Data.ipynb "Lecture 5 Sandbox")
 
 [Lecture 6 - Design of Experiments Scaling of Theory of Equations](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2006.pdf "Lecture 6 PDF")
 
@@ -28,10 +26,10 @@ This repository contains a collection of Google Colab sandboxes related to the c
 * [Lecture 7 Sandbox](https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2007%20-%20Buckingham%20Pi%20Theorem.ipynb "Lecture 7 Sandbox")
 
 [Lecture 8 - Statistical Design of Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2008.pdf "Lecture 8 PDF")
-* [Lecture 8A Sandbox]((https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2008A%20-%20Design%20of%20Experiments.ipynb "Lecture 8A Sandbox")
+* [Lecture 8A Sandbox](https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2008A%20-%20Design%20of%20Experiments.ipynb "Lecture 8A Sandbox")
 
 [Lecture 8B - Statistical Design of Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2008B.pdf "Lecture 8 PDF")
-* [Lecture 8B Sandbox](https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2008B%20-%203%20Factors%2C%202%20Levels%20Example.ipynb" Lecture 8B Sandbox")
+* [Lecture 8B Sandbox](https://github.com/alam740/Data-Analytics-Course/blob/master/Sandboxes/ECE%20595%20Lecture%2008B%20-%203%20Factors%2C%202%20Levels%20Example.ipynb "Lecture 8B Sandbox")
 
 [Lecture 9 - DOE and Taguchi Experiments](../master/Lecture-PDFs/ECE%20595%20-%20Lecture%2009.pdf "Lecture 9 PDF")
 
